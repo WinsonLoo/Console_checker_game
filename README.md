@@ -6,4 +6,4 @@ Available function:
 -surrender
 
 Modified some rule of checker:
--only able to eat piece 1 by 1 (not able to directly 4 pieces but able to capture 1 pieces for 4 time)
+-only able to capture piece 1 by 1 (not able to directly 4 pieces but able to capture 1 pieces for 4 time)
